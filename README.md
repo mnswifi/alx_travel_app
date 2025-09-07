@@ -18,7 +18,8 @@ This project demonstrates asynchronous task processing, database integration, an
 
 ## 📂 Project Structure
 
-```json
+```bash
+
 alx_travel_app/
 │── manage.py
 │── requirements.txt
