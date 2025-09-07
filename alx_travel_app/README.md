@@ -33,7 +33,7 @@ alx_travel_app/
 │ ├── asgi.py
 │ └── wsgi.py
 │
-├── listings/ # Example Django app
+├── listings/ # Listings Django app
 │ ├── models.py
 │ ├── views.py
 │ ├── tasks.py # Celery tasks
