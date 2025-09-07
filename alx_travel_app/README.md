@@ -78,7 +78,7 @@ pip install -r requirements.txt
 
 Create a .env file in the project root:
 
-```json
+```bash
 DEBUG=True
 SECRET_KEY=your-secret-key
 
