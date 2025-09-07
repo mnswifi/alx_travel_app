@@ -6,6 +6,7 @@ This project demonstrates asynchronous task processing, database integration, an
 ---
 
 ## 🚀 Features
+
 - **Django 5+** as the core web framework
 - **MySQL** database for persistence
 - **Celery + RabbitMQ (AMQP/rpc)** for asynchronous task processing
